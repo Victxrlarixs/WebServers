@@ -1,6 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/0xB4LINT/nginxconfig.io.svg)](https://github.com/0xB4LINT/nginxconfig.io/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/0xB4LINT/nginxconfig.io/graphs/contributors)
-[![BSD License](https://img.shields.io/github/license/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/0xB4LINT/nginxconfig.io/blob/master/LICENSE.md)
+[![BSD License](https://img.shields.io/github/license/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/Victxrlarixs/WebServers/blob/master/LICENSE)
 <br>
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/0xB4LINT/nginxconfig.io.svg?color=brightgreen)](https://github.com/0xB4LINT/nginxconfig.io/issues?q=is%3Aissue+is%3Aclosed)
 [![Closed PR](https://img.shields.io/github/issues-pr-closed-raw/0xB4LINT/nginxconfig.io.svg?color=brightgreen)](https://github.com/0xB4LINT/nginxconfig.io/pulls?q=is%3Apr+is%3Aclosed)

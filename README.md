@@ -1,4 +1,5 @@
-[![GitHub stars](https://img.shields.io/github/stars/0xB4LINT/nginxconfig.io.svg)](https://github.com/0xB4LINT/nginxconfig.io/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/0xB4LINT/nginxconfig.io.svg)]
+(https://github.com/Victxrlarixs/WebServers/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/0xB4LINT/nginxconfig.io/graphs/contributors)
 [![BSD License](https://img.shields.io/github/license/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/Victxrlarixs/WebServers/blob/master/LICENSE)
 <br>

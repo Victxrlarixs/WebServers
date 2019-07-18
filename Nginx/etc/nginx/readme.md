@@ -1,5 +1,5 @@
-#This project was developed using the technologies provided by the nginx config tool
-##Forked (VictxrLarixs)
+# This project was developed using the technologies provided by the nginx config tool
+## Forked (VictxrLarixs)
 
 [![GitHub stars](https://img.shields.io/github/stars/0xB4LINT/nginxconfig.io.svg)](https://github.com/0xB4LINT/nginxconfig.io/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/0xB4LINT/nginxconfig.io.svg?color=blue)](https://github.com/0xB4LINT/nginxconfig.io/graphs/contributors)

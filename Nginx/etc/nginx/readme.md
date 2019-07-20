@@ -1,4 +1,3 @@
-# This project was developed using the technologies provided by the nginx config tool
 ## Forked (VictxrLarixs)
 
 [![GitHub stars](https://img.shields.io/github/stars/0xB4LINT/nginxconfig.io.svg)](https://github.com/0xB4LINT/nginxconfig.io/stargazers)
@@ -17,8 +16,6 @@
 [![securityheaders.io](https://img.shields.io/badge/securityheaders.io-A-brightgreen.svg)](https://securityheaders.com/?q=https%3A%2F%2Fnginxconfig.io%2F)
 [![HSTS preload](https://img.shields.io/hsts/preload/nginxconfig.io.svg?label=HSTS)](https://hstspreload.org/?domain=nginxconfig.io)
 
-
-[![nginxconfig.io](public/assets/img/github.png)](https://nginxconfig.io)
 
 <p align="center">
   <h3 align="center">⚙️ NGINX configuration generator on steroids 💉</h3>

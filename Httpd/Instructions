@@ -1,0 +1,22 @@
+# # Using fish shell:
+# if test -e /etc/httpd.conf; touch /etc/httpd.conf; end
+
+
+# mkdir -p /var/www/htdocs/my.domain
+# chown {% user %}:{% group %} /var/www/htdocs/my.domain # if necessary
+$ echo "Hello, world. from OpenBSD httpd" > /var/www/htdocs/my.domain/index.html
+
+
+# rcctl enable httpd
+
+
+# cat /etc/rc.conf.local
+httpd_flags=
+ 
+ 
+# rcctl start httpd
+httpd(ok)
+
+
+$ curl localhost:80
+Hello, world. from OpenBSD httpd
